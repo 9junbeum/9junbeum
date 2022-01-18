@@ -1,6 +1,8 @@
-# 나는 하지 깃허브를 ***구준범***
+# 준범 | Koo Jun Beum 
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=9junbeum&show_icons=true)
+
 
 
 
