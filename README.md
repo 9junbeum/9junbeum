@@ -1,4 +1,4 @@
-# 깃허브를 하지 나는 구준범
+# 나는 하지 깃허브를 ***구준범***
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=9junbeum&show_icons=true)
 
